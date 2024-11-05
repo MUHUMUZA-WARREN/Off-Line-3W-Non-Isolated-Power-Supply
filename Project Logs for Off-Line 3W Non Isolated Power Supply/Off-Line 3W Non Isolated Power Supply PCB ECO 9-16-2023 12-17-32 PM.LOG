@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Off-Line 3W Non Isolated Power Supply Member=J?
+Change Component Footprint: Designator=J? Old Footprint=FP-38740-6103-MFG New Footprint=FP-38740-6103-MFG
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Added Pin To Net: NetName=OutputNode Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-3
+Change Net Name : Old Net Name=NetD1_1 New Net Name=D1F1Node
+Change Net Name : Old Net Name=NetD1_2 New Net Name=LIVE
+Change Net Name : Old Net Name=NetD2_1 New Net Name=D2DZ1Node
+Change Net Name : Old Net Name=NetD3_2 New Net Name=D3R1Node
+Change Net Name : Old Net Name=OutputNode New Net Name=15V
+Added Pin To Net: NetName=12V Pin=J2-2
+Added Pin To Net: NetName=12V Pin=R2-2
+Added Net: Name=12V
+Added Member To Class: ClassName=Off-Line 3W Non Isolated Power Supply Member=Component J2 38740-6103

@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=GND New Net Name=SystemGnd
+Change Net Name : Old Net Name=NetC2_1 New Net Name=Vcc
+Change Net Name : Old Net Name=NetC2_2 New Net Name=ICGround
+Change Net Name : Old Net Name=NetC3_2 New Net Name=Control
+Change Net Name : Old Net Name=NetC4_2 New Net Name=DiodeCap
+Change Net Name : Old Net Name=NetC5_2 New Net Name=OutputNode
